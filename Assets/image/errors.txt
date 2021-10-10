@@ -1,0 +1,2 @@
+[10/1/2021, 2:28:54 PM] layer "Email: info@acworks.co.jp": Unsupported extension: jp
+[10/1/2021, 2:28:54 PM] layer "logo.png": Duplicate path: logo.png
